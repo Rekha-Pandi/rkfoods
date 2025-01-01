@@ -21,17 +21,13 @@ rkfoods is a web platform for browsing restaurants, viewing menus, and placing o
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rekha-Pandi/rkfoods.git
-   Navigate to the project directory:
-bash
-Copy code
-cd rkfoods
-Import the project into your IDE (like Eclipse or IntelliJ).
-Configure your MySQL database and update the connection settings in the DBUtils.java file.
-Build and run the project using Apache Tomcat.
-Open the application in your browser:
-bash
-Copy code
-http://localhost:8080/rkfoods
+2.Navigate to the project directory:
+  cd rkfoods
+3.Import the project into your IDE (like Eclipse or IntelliJ).
+4.Configure your MySQL database and update the connection settings in the DBUtils.java file.
+5.Build and run the project using Apache Tomcat.
+6.Open the application in your browser:
+  http://localhost:8080/rkfoods
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
