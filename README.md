@@ -1,8 +1,5 @@
 # rkfoods
 rkfoods is a web platform for browsing restaurants, viewing menus, and placing orders online. It offers features like restaurant listings, menu selection, order management, user accounts, and cart management. Built with Java, JSP, Servlets, and MySQL, it provides a seamless, responsive experience for users.
-# rkfoods
-
-RK Foods is a web platform for browsing restaurants, viewing menus, and placing orders online. It provides users the ability to browse through different restaurant menus, manage their orders in a cart, and securely complete the ordering process.
 
 ## Features
 
